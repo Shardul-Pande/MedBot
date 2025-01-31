@@ -1,4 +1,7 @@
 **MedBot**
+
+
+
 The Llama2 Medical Bot is a specialized AI-driven assistant designed to provide accurate medical information by processing user queries. This project utilizes advanced language models and vector stores to enable reliable medical data retrieval, offering a solution for individuals seeking medical insights.
 
 **Problem Statement**
